@@ -1,0 +1,27 @@
+--------------------
+Variables
+--------------------
+Las variables son un espacio de memoria en el que guardamos un determinado valor (o dato).
+Por lo cual todas las variables tendrán un tipo de dato y un nombre de identificador.
+El tipo de dato se asignará a la hora de definir la variable.
+--------------------
+Strings
+--------------------
+Un String representa una cadena de caracteres no modificable.
+Todos los literales de la forma "cualquier texto".
+--------------------
+Funciones (argumentos, return)
+--------------------
+Return se emplea para salir de la secuencia de ejecución de las sentencias de un método y,
+opcionalmente, devolver un valor.
+--------------------
+Declaraciones if
+--------------------
+La sentencia if es la declaración de toma de decisiones más simple.
+Se usa para decidir si una determinada declaración o bloque de enunciados se ejecutará o no.
+--------------------
+Valores booleanos (true, false)
+--------------------
+En JavaScript una variable es booleana si se le asigna como contenido true ó false.
+Estas variables se usan para almacenar información del tipo sí / no, cumple / no cumple,
+verdadero / falso, existe / no existe, es decir, información que únicamente puede tener dos estados.
